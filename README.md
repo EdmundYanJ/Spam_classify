@@ -13,4 +13,4 @@ In this project you can use the data in the directory of data.
 ## Training&Test
 run the python file 2~5,the 4 and 5 improve the performance of classification of the email.
 ## Result
-https://github.com/EdmundYanJ/Spam_classify/blob/master/result/Result.png
+![result](https://github.com/EdmundYanJ/Spam_classify/blob/master/result/Result.png)
