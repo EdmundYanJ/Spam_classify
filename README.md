@@ -1,8 +1,8 @@
 # Spam_classify
 ## Dependencies
-python 3.6
+python 3.7
 
-Pytorch 0.4.1
+Pytorch 1.4
 
 In addition, please add the project folder to PYTHONPATH and `pip install` the following packages:
   - `numpy`
